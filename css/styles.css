@@ -894,6 +894,10 @@ progress {
   --bs-gutter-y: 3rem;
 }
 
+.album {
+  max-width: 300px;
+}
+
 @media (min-width: 576px) {
   .col-sm {
     flex: 1 0 0%;
